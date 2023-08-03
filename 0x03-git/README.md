@@ -1,2 +1,2 @@
-my second commit updated twice
+my second commit updated 
 
